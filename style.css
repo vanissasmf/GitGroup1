@@ -1,0 +1,10 @@
+tr:nth-child(even) {
+  background-color: #d6eeee;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
